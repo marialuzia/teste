@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    widows: 1000vw;
+    height: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.botão{
+    width: 100px;
+    height:50px;
+    border: nome;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10%;
+
+}
+
+.botão:hover{
+    cursor: pointer;
+}
+.secreta{
+    font-size:  40pt;
+    color: red;
+    font-family: sans-serif;
+    display: nome;
+    
+}
